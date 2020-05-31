@@ -1,0 +1,130 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Aceandlaw",
+          "alamat": "tangerang selatan",
+          "umur": 21,
+          "nohp": "12121313"
+        },
+        {
+          "id": 2,
+          "nama": "Luffi",
+          "alamat": "tangerang selatan",
+          "umur": 21,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 3,
+          "nama": "Law",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 4,
+          "nama": "Zorro",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 5,
+          "nama": "Dono",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 6,
+          "nama": "Guna",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 7,
+          "nama": "DA",
+          "alamat": "tangerang selatan",
+          "umur": 21,
+          "nohp": "12121313"
+        },
+        {
+          "id": 8,
+         "nama": "Luf",
+          "alamat": "tangerang selatan",
+          "umur": 21,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 9,
+          "nama": "L",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 10,
+          "nama": "Zor",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 11,
+          "nama": "Do",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 12,
+          "nama": "11",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 13,
+          "nama": "A",
+          "alamat": "tangerang selatan",
+          "umur": 21,
+          "nohp": "12121313"
+        },
+        {
+          "id": 14,
+          "nama": "Luffi",
+          "alamat": "tangerang selatan",
+          "umur": 21,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 15,
+          "nama": "Law",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 16,
+          "nama": "Zorro",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 17,
+          "nama": "Dono",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        },
+        {
+          "id": 18,
+          "nama": "Guna",
+          "alamat": "tangerang selatan",
+          "umur": 24,
+          "nohp": "1212121212"
+        }
+    ]
+}
